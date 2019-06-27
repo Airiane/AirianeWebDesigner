@@ -1,8 +1,9 @@
-/*pagina inicio e projeto*/
+/*pagina inicio*/
 function mensagem() {
 	alert("Site indisponível no momento.");
 }
 
+/*pagina projeto*/
 function imagem2() {
 	document.getElementById("trocarimg").src="Assets/IMG/SiteRafa1.png";
 }
