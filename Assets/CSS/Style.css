@@ -1,0 +1,152 @@
+a{
+	color: #000000 !important;
+	text-decoration: none!important;
+}
+nav{
+	padding: 20px !important;
+	border-bottom: 2px solid;
+	border-bottom-color: #d4d4d4;
+}
+footer{
+	margin-top: 20%;
+	background-color: #40283E;
+	padding: 2%;
+}
+span{
+	color: red;
+}
+#menu{
+	background-color: #ffffff !important;
+}
+#nome{
+	font-family: strude;
+	letter-spacing: 2px;
+	margin-left: 20px;
+	font-size: 30px;
+	width: 20%;
+}
+#botao{
+	background-color: black;
+}
+#fundo{
+	width: 100%;
+	margin-top: 50px;
+}
+#col2{
+	padding: 10%;
+	background-color: #ede3e6;
+}
+}
+#area{
+	background-color: #fff2ed;
+	padding: 5%;
+}
+#imgfooter{
+	width: 100%;
+}
+.center{
+	text-align: center;
+}
+.portfotos{
+	width: 100%;
+	margin-top: 60px;
+	border-radius: 30px;
+}
+.botao{
+	padding: 5px;
+	width: 120px;
+	margin-top: 30px;
+	background-color: #D98292;
+	border: none;
+	border-radius: 15px;
+}
+.text{
+	margin-top: 20px;
+	padding: 2%;
+}
+.social{
+	margin-left: 20px;
+	width: 2%;
+}
+.redes{
+	text-align: center;
+	color: #fff;
+	padding: 1%;
+}
+.container{
+	margin-top: 50px;
+}
+/*pagina contato*/
+#contato{
+	margin-top: 4%;
+	text-align: center;
+}
+#botao2{
+	margin-top: 2%;
+}
+.subtext{
+	margin-top: 10%;
+	text-align: center;
+}
+/*pagina projeto*/
+.projeto{
+	text-align: center;
+	margin-top: 12%;
+	letter-spacing: 2px;
+	font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif;
+	font-weight: 300;
+    font-size: 40px;
+    color: #393F52;
+}
+.descri1{
+	text-align: center;
+	font-size: 19px;
+	letter-spacing: 1px;
+}
+.imgprojeto{
+	width: 500px;
+	padding: 5%;
+}
+.imgprojeto2{
+	width: 500px;
+	padding: 5%
+}
+.container2{
+	text-align: center;
+	width: 50%;
+	margin-top: 4%;
+}
+.cat{
+	border: 1px solid;
+	border-color: #fff;
+	background-color: #dedede;
+	border-radius: 10px;
+	padding: 5px;
+}
+.cat:hover {
+	background-color: #40283E;
+	color: #fff;
+}
+.catfixo{
+	background-color: #40283E;
+	color: #fff;
+	border: 1px solid;
+	border-color: #fff;
+	border-radius: 10px;
+	padding: 5px;
+}
+/*pagina sobre*/
+#foto{
+	width: 75%;
+	margin-top: 4%;
+}
+.texto{
+	text-align: justify;
+	padding: 0% 5% 3% 5%;
+	font-size: 18px;
+	font-family: Cambria Math;
+}
+.linha{
+	width: 80%;
+	border: 1px solid;
+}
